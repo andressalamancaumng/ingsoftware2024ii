@@ -1,0 +1,7 @@
+{
+  "name": "IngSoft",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
